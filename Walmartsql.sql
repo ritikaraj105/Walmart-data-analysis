@@ -84,7 +84,7 @@ SELECT
 FROM walmart
 GROUP BY shift
 ORDER BY num_invoices DESC;
--- identitfy 5 branch with highest decreas
+-- question 8  identitfy 5 branch with highest decreas
 --  rate in revenue compare to last year 2023 and 2022
 WITH branch_revenue AS (
     SELECT 
