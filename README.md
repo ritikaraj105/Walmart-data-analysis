@@ -40,12 +40,19 @@ Documentation: Keep clear notes of each query's objective, approach, and results
 QUERIES
 
 1 -- Analyize payment method ans sales
+
 2 -- Find highest rated category in each branch
+
 3 -- Total quantity sold per payment method
+
 4 -- Analyze category rating by city
+
 5 -- Calculate total profit by category
+
 6 -- Determine most common payment method per branch
+
 7 -- Analyze sales shift throughout day
+
 8 -- Identitfy branch with highest revenue decline by year
 
 RESULTS AND INSIGHTS
