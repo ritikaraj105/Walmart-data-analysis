@@ -41,13 +41,12 @@ QUERIES
 
 1 -- Analyize payment method ans sales
 2 -- Find highest rated category in each branch
-3 -- Determine busiest day
-4 -- Total quantity sold per payment method
-5 -- Analyze category rating by city
-6 -- Calculate total profit by category
-7 -- Determine most common payment method per branch
-8 -- Analyze sales shift throughout day
-9 -- Identitfy branch with highest revenue decline by year
+3 -- Total quantity sold per payment method
+4 -- Analyze category rating by city
+5 -- Calculate total profit by category
+6 -- Determine most common payment method per branch
+7 -- Analyze sales shift throughout day
+8 -- Identitfy branch with highest revenue decline by year
 
 RESULTS AND INSIGHTS
 
