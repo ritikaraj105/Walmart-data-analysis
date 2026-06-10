@@ -37,9 +37,23 @@ Analyzing peak sales periods and customer buying patterns.
 Profit margin analysis by branch and category.
 Documentation: Keep clear notes of each query's objective, approach, and results.
 
+QUERIES
+
+1 -- Analyize payment method ans sales
+2 -- Find highest rated category in each branch
+3 -- Determine busiest day
+4 -- Total quantity sold per payment method
+5 -- Analyze category rating by city
+6 -- Calculate total profit by category
+7 -- Determine most common payment method per branch
+8 -- Analyze sales shift throughout day
+9 -- Identitfy branch with highest revenue decline by year
+
 RESULTS AND INSIGHTS
 
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 Profitability: Insights into the most profitable product categories and locations.
 Customer Behavior: Trends in ratings, payment preferences, and peak shopping hours.
 Future Enhancements
+
+
