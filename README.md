@@ -1,6 +1,6 @@
 # Walmart-data-analysis
                                      #THE ARCHITECTURE
-OBTAIN DATASET
+OBTAIN DATASET//
 STEP1 -- Setup API by obtaining Kaggle API token by navigating through profile settings and downloading the json file to keep dataset in real-time. Keep the downloaded file in new folder.
 
 LIBRARIES
